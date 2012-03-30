@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingASPNETApps</Id>
+	  <Technologies>
+		<Technology>Windows Azure</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>ntotten</Name>
+  </Author>
+  <Description>
+    This presentation covers ASP.NET in Windows Azure through a discussion of WebForms and MVC, statelessness, DNS configuration, and additional advanced topics.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\BuildingASPNETApps.pptx</Document>
+  <Title>Building ASP.NET Apps</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

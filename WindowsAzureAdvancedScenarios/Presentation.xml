@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>WindowsAzureAdvancedScenarios</Id>
+	  <Technologies>
+		<Technology>Windows Azure</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>wwegner</Name>
+  </Author>
+  <Description>
+    This presentation covers advanced concepts in Windows Azure such as startup tasks, elevated priviledges, remote desktop, network traffic rules, and VM role.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\WindowsAzureAdvancedScenarios.pptx</Document>
+  <Title>Windows Azure Advanced Scenarios</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

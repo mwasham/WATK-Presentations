@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingWebAPIsInWindowsAzure</Id>
+	  <Technologies>
+		<Technology>Windows Azure</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>ntotten</Name>
+  </Author>
+  <Description>
+    In this presentation you'll learn to distinguish the reality from the hype with regards to Web APIs. Speifically, this presentation will cover building Web APIs for browser/JSON clients and native/non-browser clients.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\BuildingWebAPIsInWindowsAzure.pptx</Document>
+  <Title>Building Web APIs in Windows Azure</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

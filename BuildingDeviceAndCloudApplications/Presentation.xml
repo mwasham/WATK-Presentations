@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingDeviceAndCloudApplications</Id>
+	  <Technologies>
+		<Technology>Windows Azure</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>wwegner</Name>
+  </Author>
+  <Description>    
+    This presentation describes how to build device applications with Windows Azure. Various architectural patterns specific to devices and cloud are covered, including: storage, idenitty, communications, services, and tools.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\BuildingDeviceAndCloudApplications.pptx</Document>
+  <Title>Building Device and Cloud Applications</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

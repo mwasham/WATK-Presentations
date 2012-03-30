@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>NodeJSOnWindowsAzure</Id>
+	  <Technologies>
+		<Technology>Windows Azure</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>ntotten</Name>
+  </Author>
+  <Description>
+    In this presentation you'll learn about Node.js, when to use Node.js, and how to use Node.js on Windows Azure.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\NodeJSOnWindowsAzure.pptx</Document>
+  <Title>Node.JS on Windows Azure</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

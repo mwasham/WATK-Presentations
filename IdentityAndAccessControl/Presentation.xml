@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>IdentityAndAccessControl</Id>
+	  <Technologies>
+		<Technology>Windows Identity Foundation</Technology>
+		<Technology>Windows Azure Access Control</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>wwegner</Name>
+  </Author>
+  <Description>
+    This presentation provides an overview of the claims-based identity approach to identity and access control for cloud applications. Windows Identity Foundation and Access Control service are discussed.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\IdentityAndAccessControl.pptx</Document>
+  <Title>Identity and Access Control</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

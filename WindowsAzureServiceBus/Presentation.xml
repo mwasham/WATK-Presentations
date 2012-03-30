@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>WindowsAzureServiceBus</Id>
+	  <Technologies>
+		<Technology>Windows Azure Service Bus</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>wwegner</Name>
+  </Author>
+  <Description>
+    This presentation provides an introduction to Windows Azure Service Bus.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\WindowsAzureServiceBus.pptx</Document>
+  <Title>Windows Azure Service Bus</Title>
+  <Version>1.0.1</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
