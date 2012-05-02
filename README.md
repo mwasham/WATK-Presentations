@@ -8,6 +8,8 @@ Presentations are a set of resources you can use for learning Windows Azure capa
 
 >**Note:** You can download the latest build of the Windows Azure Training Kit which includes a tested version of this Presentation here: http://bit.ly/WindowsAzureTK.
 
+Visit our [GitHub Homepage](https://windowsazure-trainingkit.github.com/) for more information about the **Windows Azure Training Kit**.
+
 ### Repository Structure ###
 
 In the **root** folder of this repository you will find the Presentations files in their respective Presentations folders.
