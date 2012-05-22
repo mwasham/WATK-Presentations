@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingAppsWithIaaSAndPaaS</Id>
+  <Author>
+    <Blog></Blog>
+    <Email>mwasham@microsoft.com</Email>
+    <Name>Michael Washam</Name>
+  </Author>
+  <Description>
+    Application Patterns for connecting web and worker roles (PaaS) with Windows Azure Virtual Machines (IaaS)
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\BuildingAppsWithIaaSAndPaaS.pptx</Document>
+  <Title>Building Applications with IaaS and PaaS in Windows Azure</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
