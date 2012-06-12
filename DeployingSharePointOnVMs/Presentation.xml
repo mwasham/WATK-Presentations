@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>SharePointOnWindowsAzurey</Id>
+  <Author>
+    <Blog></Blog>
+    <Email>mwasham@microsoft.com</Email>
+    <Name>Michael Washam</Name>
+  </Author>
+  <Description>
+    Understanding how to deploy SharePoint on Windows Azure Virtual Machines
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\DeployingSharePoint2010onVMs.pptx</Document>
+  <Title>Deploying SharePoint Server 2010 on Windows Azure Virtual Machines</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
