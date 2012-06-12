@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>IaaSTechnicalOverview</Id>
+  <Author>
+    <Blog></Blog>
+    <Email>mwasham@microsoft.com</Email>
+    <Name>Michael Washam</Name>
+  </Author>
+  <Description>
+    Comprehensive presentation that introduces the technical concepts and business value of Windows Azure Infrastructure as a Service.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\IaaSTechnicalOverview.pptx</Document>
+  <Title>Windows Azure IaaS Technical Overview</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

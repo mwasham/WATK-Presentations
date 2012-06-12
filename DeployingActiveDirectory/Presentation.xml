@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>WindowsAzureActiveDirectory</Id>
+  <Author>
+    <Blog></Blog>
+    <Email>mwasham@microsoft.com</Email>
+    <Name>Michael Washam</Name>
+  </Author>
+  <Description>
+    Understanding how and when to deploy Active Directory within Windows Azure Virtual Machines
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\DeployingActiveDirectory.pptx</Document>
+  <Title>Deploying Active Directory in Windows Azure</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
