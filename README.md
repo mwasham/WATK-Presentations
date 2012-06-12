@@ -16,7 +16,7 @@ In the **root** folder of this repository you will find the Presentations files 
 
 ### Contributing to the Repository ###
 
-If you find any issues or opportunties for improving this hands-on lab, fix them! Feel free to contribute to this project by [forking](http://help.github.com/fork-a-repo/) this repository and make changes to the content. Once you've made your changes, share them back with the community by sending a pull request. Please see GitHub section [How to send pull requests](http://help.github.com/send-pull-requests/) and the [Windows Azure Contribution Guidelines](http://windowsazure.github.com/guidelines.html) for more information about contributing to projects.
+If you find any issues or opportunties for improving these presentations, fix them! Feel free to contribute to this project by [forking](http://help.github.com/fork-a-repo/) this repository and make changes to the content. Once you've made your changes, share them back with the community by sending a pull request. Please see GitHub section [How to send pull requests](http://help.github.com/send-pull-requests/) and the [Windows Azure Contribution Guidelines](http://windowsazure.github.com/guidelines.html) for more information about contributing to projects.
 
 ### Reporting Issues ###
 
