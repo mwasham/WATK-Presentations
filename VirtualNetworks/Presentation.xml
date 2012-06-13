@@ -7,7 +7,7 @@
     <Name>Michael Washam</Name>
   </Author>
   <Description>
-    Presentatation focused on Windows Azure Networking capabilities including Virtual Networks.
+    Presentation focused on Windows Azure Networking capabilities including Virtual Networks.
   </Description>
   <Document RemoveSpeakerNotes="false">.\VirtualNetworks.pptx</Document>
   <Title>Windows Azure Virtual Networks</Title>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>WindowsAzureCompute</Id>
+	  <Technologies>
+		<Technology>Windows Azure</Technology>
+	  </Technologies>      
+  <Author>
+    <Blog></Blog>
+    <Email>
+    </Email>
+    <Name>ntotten</Name>
+  </Author>
+  <Description>This presentation covers the basic concepts of Windows Azure Cloud Services such as roles, instances and configuration.</Description>
+  <Document RemoveSpeakerNotes="false">.\WindowsAzureCloudServices.pptx</Document>
+  <Title>Windows Azure Cloud Services</Title>
+  <Version>1.7.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
