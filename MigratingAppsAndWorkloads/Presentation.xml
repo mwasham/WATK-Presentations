@@ -7,7 +7,7 @@
     <Name>Michael Washam</Name>
   </Author>
   <Description>
-	Migration application patterns and walk throughs for moving workloads from on-premises to the cloud with IaaS.
+	Migration application patterns and walks through for moving workloads from on-premises to the cloud with IaaS.
   </Description>
   <Document RemoveSpeakerNotes="false">.\MigratingAppsAndWorkloads.pptx</Document>
   <Title>Windows Azure Migrating Applications and Workloads</Title>
