@@ -7,7 +7,7 @@
     <Name>Michael Washam</Name>
   </Author>
   <Description>
-    Introductory presentation that explains the history of Windows Azure interoperability features and business/technical value of of Windows Azure Infrastructure as a Service.
+    Introductory presentation that explains the history of Windows Azure interoperability features and business/technical value of Windows Azure Infrastructure as a Service.
   </Description>
   <Document RemoveSpeakerNotes="false">.\IaaSOverview.pptx</Document>
   <Title>Windows Azure IaaS Overview</Title>
