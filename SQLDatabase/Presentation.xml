@@ -12,7 +12,7 @@
   <Description>
     This presentation provides a high-level overview of Windows Azure SQL Databases from a developer perspective.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\WindowsAzureSQLDatabases.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\SQLDatabases.pptx</Document>
   <Title>Introduction to Windows Azure SQL Database</Title>
   <Version>2.0.2</Version>
   <SlideThumbnail>1</SlideThumbnail>
