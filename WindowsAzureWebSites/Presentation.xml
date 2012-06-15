@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>WindowsAzureWebSites</Id>
+  <Author>
+    <Blog></Blog>
+    <Email>ntotten@microsoft.com</Email>
+    <Name>Nathan Totten</Name>
+  </Author>
+  <Description>Windows Azure Web Sites is a simple and powerful hosting platform that allows developers to easily build and rapidly deploy web applications on Windows Azure using their favorite languages, frameworks, and tools. This presentation explains how you can use this new technology to build, deploy, and run everything from classic ASP sites to modern ASP.NET MVC 4 web applications using both new and familiar tools including Visual Studio 2010, Visual Studio 2012, and WebMatrix.</Description>
+  <Document RemoveSpeakerNotes="true">.\WindowsAzureWebSites.pptx</Document>
+  <Title>Windows Azure Web Sites</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
