@@ -8,12 +8,12 @@
     <Blog></Blog>
     <Email>
     </Email>
-    <Name>nickha</Name>
+    <Name>Nick Harris</Name>
   </Author>
   <Description>
     In this presentation you'll learn about Windows 8 live tiles, the Windows Push Notification Service, and how to enable push notifications from your services running in Windows Azure.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\DeliveringWindows8PushNotifications.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\DeliveringWindows8PushNotifications.pptx</Document>
   <Title>Delivering Notifications with Windows Azure</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

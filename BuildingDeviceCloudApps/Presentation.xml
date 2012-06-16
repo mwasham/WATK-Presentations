@@ -8,12 +8,11 @@
     <Blog></Blog>
     <Email>
     </Email>
-    <Name>wwegner</Name>
+    <Name>Nick Harris</Name>
   </Author>
-  <Description>    
-    This presentation describes how to build device applications with Windows Azure. Various architectural patterns specific to devices and cloud are covered, including: storage, idenitty, communications, services, and tools.
+  <Description>This presentation describes how to build device applications with Windows Azure. Various architectural patterns specific to devices and cloud are covered, including: storage, idenitty, communications, services, and tools.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\BuildingDeviceCloudApps.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\BuildingDeviceCloudApps.pptx</Document>
   <Title>Building Device and Cloud Applications</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

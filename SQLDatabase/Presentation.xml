@@ -7,13 +7,13 @@
   <Author>
     <Blog>http://geekswithblogs.net/scottklein</Blog>
     <Email>scottkl@microsoft.com</Email>
-    <Name>scottkl</Name>
+    <Name>Scott Klein</Name>
   </Author>
   <Description>
     This presentation provides a high-level overview of Windows Azure SQL Databases from a developer perspective.
   </Description>
   <Document RemoveSpeakerNotes="true">.\SQLDatabase.pptx</Document>
-  <Title>Introduction to Windows Azure SQL Database</Title>
+  <Title>Windows Azure SQL Database</Title>
   <Version>2.0.2</Version>
   <SlideThumbnail>1</SlideThumbnail>
 </Presentation>

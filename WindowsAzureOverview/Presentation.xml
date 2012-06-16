@@ -8,14 +8,12 @@
     <Blog></Blog>
     <Email>
     </Email>
-    <Name>jamescon</Name>
+    <Name>James Conard</Name>
   </Author>
   <Description>
-    This presentation provides an overview of the Windows Azure.  After this presentation you will understand the 
-    services Microsoft is providing as part of the Windows Azure, the key concepts, and how to get started.  
-    The additional presentations in this training kit will drill into key services.    
+    This presentation provides an overview of the Windows Azure.  After this presentation you will understand the key concepts and how to get started using Windows Azure. The additional presentations in this training kit will drill into key features and services. 
   </Description>
-  <Document RemoveSpeakerNotes="false">.\WindowsAzureOverview.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\WindowsAzureOverview.pptx</Document>
   <Title>Windows Azure Overview</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

@@ -13,7 +13,7 @@
   <Description>
     In this presentation you'll better understand the role of Big Data in the cloud and how Windows Azure &amp; Hadoop work together.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\HadoopOnWindowsAzure.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\HadoopOnWindowsAzure.pptx</Document>
   <Title>Introduction to  Big Data and Hadoop on Windows Azure</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

@@ -8,12 +8,12 @@
     <Blog></Blog>
     <Email>
     </Email>
-    <Name>wwegner</Name>
+    <Name>Haishi Bai</Name>
   </Author>
   <Description>
     This presentation provides an introduction to Windows Azure Service Bus.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\WindowsAzureServiceBus.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\WindowsAzureServiceBus.pptx</Document>
   <Title>Windows Azure Service Bus</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

@@ -9,12 +9,12 @@
     <Blog></Blog>
     <Email>
     </Email>
-    <Name>wwegner</Name>
+    <Name>Haishi Bai</Name>
   </Author>
   <Description>
     This presentation provides an overview of the claims-based identity approach to identity and access control for cloud applications. Windows Identity Foundation and Access Control service are discussed.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\IdentityAndAccessControl.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\IdentityAndAccessControl.pptx</Document>
   <Title>Identity and Access Control</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

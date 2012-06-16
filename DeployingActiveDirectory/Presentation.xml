@@ -9,7 +9,7 @@
   <Description>
     Understanding how and when to deploy Active Directory within Windows Azure Virtual Machines
   </Description>
-  <Document RemoveSpeakerNotes="false">.\DeployingActiveDirectory.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\DeployingActiveDirectory.pptx</Document>
   <Title>Deploying Active Directory in Windows Azure</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>

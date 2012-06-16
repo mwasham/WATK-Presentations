@@ -9,7 +9,7 @@
   <Description>
     Introduction to using the Windows Azure PowerShell Cmdlets to manage and automate virtual machines and virtual networks.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\ManagingIaaS-PowerShell.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\ManagingVMS-PowerShell.pptx</Document>
   <Title>Automating Virtual Machine Management with PowerShell</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>

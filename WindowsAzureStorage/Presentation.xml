@@ -8,12 +8,12 @@
     <Blog></Blog>
     <Email>
     </Email>
-    <Name>wwegner</Name>
+    <Name>Haishi Bai</Name>
   </Author>
   <Description>
     This presentation covers the Windows Azure storage services.  Blobs, tables, queues, drives, and the CDN are discussed in this presentation.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\WindowsAzureStorage.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\WindowsAzureStorage.pptx</Document>
   <Title>Windows Azure Storage</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>

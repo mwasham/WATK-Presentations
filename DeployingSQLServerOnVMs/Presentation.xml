@@ -7,9 +7,9 @@
     <Name>Michael Washam</Name>
   </Author>
   <Description>
-    Understanding how and when to deploy SQL Server within Windows Azure Virtual Machines
+Understanding how and when to deploy SQL Server within Windows Azure Virtual Machines
   </Description>
-  <Document RemoveSpeakerNotes="false">.\DeployingSQLOnVMs.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\DeployingSQLOnVMs.pptx</Document>
   <Title>Deploying SQL Server in a Windows Azure Virtual Machine</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>

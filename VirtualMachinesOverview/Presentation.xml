@@ -9,7 +9,7 @@
   <Description>
     Introductory presentation that explains the history of Windows Azure interoperability features and business/technical value of Windows Azure Infrastructure as a Service.
   </Description>
-  <Document RemoveSpeakerNotes="false">.\VirtualMachinesOverview.pptx</Document>
+  <Document RemoveSpeakerNotes="true">.\VirtualMachinesOverview.pptx</Document>
   <Title>Windows Azure Virtual Machines Overview</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>
