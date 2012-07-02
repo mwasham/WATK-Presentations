@@ -13,4 +13,7 @@ Understanding how and when to deploy SQL Server within Windows Azure Virtual Mac
   <Title>Deploying SQL Server in a Windows Azure Virtual Machine</Title>
   <Version>1.0.0</Version>
   <SlideThumbnail>1</SlideThumbnail>
+  <CustomProperties>
+     <Property Name="Filter" Value="Foundation" />
+  </CustomProperties>
 </Presentation>
