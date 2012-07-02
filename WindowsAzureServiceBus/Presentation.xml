@@ -17,4 +17,7 @@
   <Title>Windows Azure Service Bus</Title>
   <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>
+  <CustomProperties>
+    <Property Name="Filter" Value="Foundation" />
+  </CustomProperties>
 </Presentation>
